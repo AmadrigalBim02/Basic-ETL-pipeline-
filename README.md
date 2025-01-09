@@ -1,4 +1,7 @@
 # Basic-ETL-pipeline-
+
+This is an example of a really basic ETL pipeline using python and postgres.
+
 Why use a ETL pipeline? 
  
 Extract
